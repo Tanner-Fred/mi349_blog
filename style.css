@@ -39,7 +39,6 @@ a[li] {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-a[table] {
+a[th] {
     font-weight: 200;
-    font-family: Arial, Helvetica, sans-serif;
 }
