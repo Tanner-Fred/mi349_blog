@@ -39,6 +39,6 @@ a[li] {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-a[th] {
+a[label] {
     font-weight: 200;
 }
