@@ -29,5 +29,6 @@ p {
 }
 
 a[link] {
-    
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
