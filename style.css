@@ -63,3 +63,7 @@ a[li] {
     float: left;
     margin-left: 10px;
 }
+
+section {
+    display: flex;
+}
