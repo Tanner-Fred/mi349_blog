@@ -56,10 +56,10 @@ a[li] {
     top: 0;
 }
 
-.img-container  {
+.img  {
     background: black;
-    height: 25px;
-    width: 25px;
+    height: 15px;
+    width: 15px;
     float: left;
     margin-left: 10px;
 }
