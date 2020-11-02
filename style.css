@@ -50,3 +50,8 @@ a[li] {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.sticky{
+    background: grey;
+    position: sticky;
+    top: 0;
+}
