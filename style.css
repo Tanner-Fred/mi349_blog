@@ -80,3 +80,9 @@ article:nth-of-type(2) {
 section {
     display: flex;
 }
+
+@media (max-width: 400px) {
+    #c1 {
+        display: block;
+    }
+}
